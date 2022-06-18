@@ -1,0 +1,73 @@
+name: arabic_app
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/arabic_app/assets/images/background.svg
+    - packages/arabic_app/assets/images/bg2.svg
+    - packages/arabic_app/assets/images/boxbg.svg
+    - packages/arabic_app/assets/images/yellowline2.svg
+    - packages/arabic_app/assets/images/yellowline1.svg
+    - packages/arabic_app/assets/images/vector.svg
+    - packages/arabic_app/assets/images/group.svg
+    - packages/arabic_app/assets/images/redline2.svg
+    - packages/arabic_app/assets/images/redline1.svg
+    - packages/arabic_app/assets/images/blueline2.svg
+    - packages/arabic_app/assets/images/blueline1.svg
+    - packages/arabic_app/assets/images/notov1headphone.svg
+    - packages/arabic_app/assets/images/greenline2.svg
+    - packages/arabic_app/assets/images/33dbook1.png
+    - packages/arabic_app/assets/images/33dbook4.png
+    - packages/arabic_app/assets/images/33dbook5.png
+    - packages/arabic_app/assets/images/33dbook3.png
+    - packages/arabic_app/assets/images/bg.svg
+    - packages/arabic_app/assets/images/topbg.svg
+    - packages/arabic_app/assets/images/1.png
+    - packages/arabic_app/assets/images/statusbarbg.svg
+    - packages/arabic_app/assets/images/bounds.svg
+    - packages/arabic_app/assets/images/wifi.svg
+    - packages/arabic_app/assets/images/reception.svg
+    - packages/arabic_app/assets/images/battery.svg
+    - packages/arabic_app/assets/images/ellipsebg.png
+    - packages/arabic_app/assets/images/ellipse2.png
+    - packages/arabic_app/assets/images/3.png
+    - packages/arabic_app/assets/images/2.png
+    - packages/arabic_app/assets/images/4.png
+    - packages/arabic_app/assets/images/5.png
+    - packages/arabic_app/assets/images/phtranslate.svg
+    - packages/arabic_app/assets/images/ellipse93.png
+    - packages/arabic_app/assets/images/profileicon.svg
+    - packages/arabic_app/assets/images/againicon.svg
+    - packages/arabic_app/assets/images/vector1.svg
+    - packages/arabic_app/assets/images/line1.svg
+    - packages/arabic_app/assets/images/image43.png
+    - packages/arabic_app/assets/images/ellipse7.png
+    - packages/arabic_app/assets/images/handspencil1.png
+    - packages/arabic_app/assets/images/dayflowbike.png
+    - packages/arabic_app/assets/images/handsbook.png
+    - packages/arabic_app/assets/images/beepbeephorse.png
+    - packages/arabic_app/assets/images/search.svg
+    - packages/arabic_app/assets/images/image6.png
+    - packages/arabic_app/assets/images/image7.png
+    - packages/arabic_app/assets/images/image8.png
+    - packages/arabic_app/assets/images/image12.png
+    - packages/arabic_app/assets/images/image19.png
+    - packages/arabic_app/assets/images/image20.png
+    - packages/arabic_app/assets/images/rectangle476.png
+    - packages/arabic_app/assets/images/rectangle1.svg
+    - packages/arabic_app/assets/images/iconfinderhappysmiley48308111.svg
+    - packages/arabic_app/assets/images/iconfinderhappysmiley48308112.svg
