@@ -1,0 +1,57 @@
+name: arabic
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/arabic/assets/images/background.svg
+    - packages/arabic/assets/images/bg2.svg
+    - packages/arabic/assets/images/boxbg.svg
+    - packages/arabic/assets/images/yellowline2.svg
+    - packages/arabic/assets/images/yellowline1.svg
+    - packages/arabic/assets/images/vector.svg
+    - packages/arabic/assets/images/group.svg
+    - packages/arabic/assets/images/redline2.svg
+    - packages/arabic/assets/images/redline1.svg
+    - packages/arabic/assets/images/blueline2.svg
+    - packages/arabic/assets/images/blueline1.svg
+    - packages/arabic/assets/images/notov1headphone.svg
+    - packages/arabic/assets/images/greenline2.svg
+    - packages/arabic/assets/images/33dbook1.png
+    - packages/arabic/assets/images/33dbook4.png
+    - packages/arabic/assets/images/33dbook5.png
+    - packages/arabic/assets/images/33dbook3.png
+    - packages/arabic/assets/images/bg.svg
+    - packages/arabic/assets/images/topbg.svg
+    - packages/arabic/assets/images/1.png
+    - packages/arabic/assets/images/statusbarbg.svg
+    - packages/arabic/assets/images/bounds.svg
+    - packages/arabic/assets/images/wifi.svg
+    - packages/arabic/assets/images/reception.svg
+    - packages/arabic/assets/images/battery.svg
+    - packages/arabic/assets/images/ellipsebg.png
+    - packages/arabic/assets/images/ellipse2.png
+    - packages/arabic/assets/images/3.png
+    - packages/arabic/assets/images/2.png
+    - packages/arabic/assets/images/4.png
+    - packages/arabic/assets/images/5.png
+    - packages/arabic/assets/images/phtranslate.svg
+    - packages/arabic/assets/images/ellipse93.png
+    - packages/arabic/assets/images/profileicon.svg
+    - packages/arabic/assets/images/againicon.svg
+    - packages/arabic/assets/images/vector1.svg
+    - packages/arabic/assets/images/line1.svg
+    - packages/arabic/assets/images/image43.png
